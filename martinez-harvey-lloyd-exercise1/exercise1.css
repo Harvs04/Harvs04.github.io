@@ -1,8 +1,11 @@
+/* Styling for the image */
 img {
     width:100px;
     height:100px;
     border-radius:5%;
 }
+
+/* Styling for both Name and nickname */
 
 h1 {
     color:dimgrey;
